@@ -2,7 +2,7 @@
 
 This project is the UI of the BBC News Website.
 
-Live Link:
+Live Link: https://cheery-baklava-314128.netlify.app/
 
 ### See this project as a video : [YouTube](https://youtu.be/SRpgUV4lHyg)
 
