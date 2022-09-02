@@ -1,25 +1,24 @@
-# BBC News Website - Technology Part
+# BBC-2.0
+This is a clone of website of BBC. I have developed it using HTML, CSS.
 
-This project is the UI of the BBC News Website.
+### Deployment
+| Environment | Link |
+|-------------|------|
+| Netlify Hosting | [Netlify Preview](https://cheery-baklava-314128.netlify.app/) |
 
-Live Link: https://cheery-baklava-314128.netlify.app/
+### Technology Stack
+#### Languages:
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### See this project as a video : [YouTube](https://youtu.be/SRpgUV4lHyg)
+#### IDE Used:
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="images/snap.PNG" width="100%" height="100%"/>
+#### Version Control:
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Built with
 
-- HTML
-- CSS
-
-This project is the output of my hard working. To develop your skill, there is no way without practicing. I developed this
-for practicing purpose.
-
-## Made By
-
-[Abdur Rahman Robin](https://github.com/robin3317)
-
-- [Facebook](https://facebook.com/robin4java)
-- [Twitter](https://twitter.com/robin4java)
-- [Linkedin](https://www.linkedin.com/in/robin4java/)
+### Website Preview:
+<img src="./images/BBC-2-0.png" alt="BBC 2.0">
